@@ -1,1 +1,1 @@
-# Coding Kata Excersice Example
+# Coding Kata Exercise Example
