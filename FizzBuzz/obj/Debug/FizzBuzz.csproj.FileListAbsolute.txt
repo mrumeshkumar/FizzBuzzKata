@@ -1,0 +1,5 @@
+D:\CODE\Sample\FizzBuzzKata\FizzBuzz\bin\Debug\FizzBuzz.dll
+D:\CODE\Sample\FizzBuzzKata\FizzBuzz\bin\Debug\FizzBuzz.pdb
+D:\CODE\Sample\FizzBuzzKata\FizzBuzz\obj\Debug\FizzBuzz.csproj.CoreCompileInputs.cache
+D:\CODE\Sample\FizzBuzzKata\FizzBuzz\obj\Debug\FizzBuzz.dll
+D:\CODE\Sample\FizzBuzzKata\FizzBuzz\obj\Debug\FizzBuzz.pdb

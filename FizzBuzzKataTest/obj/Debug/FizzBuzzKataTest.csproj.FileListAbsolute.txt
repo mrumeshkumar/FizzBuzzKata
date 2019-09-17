@@ -1,0 +1,16 @@
+D:\CODE\Sample\FizzBuzzKata\FizzBuzzKataTest\obj\Debug\FizzBuzzKataTest.csprojAssemblyReference.cache
+D:\CODE\Sample\FizzBuzzKata\FizzBuzzKataTest\obj\Debug\FizzBuzzKataTest.csproj.CoreCompileInputs.cache
+D:\CODE\Sample\FizzBuzzKata\FizzBuzzKataTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\CODE\Sample\FizzBuzzKata\FizzBuzzKataTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\CODE\Sample\FizzBuzzKata\FizzBuzzKataTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\CODE\Sample\FizzBuzzKata\FizzBuzzKataTest\bin\Debug\FizzBuzzKataTest.dll
+D:\CODE\Sample\FizzBuzzKata\FizzBuzzKataTest\bin\Debug\FizzBuzzKataTest.pdb
+D:\CODE\Sample\FizzBuzzKata\FizzBuzzKataTest\bin\Debug\FizzBuzz.dll
+D:\CODE\Sample\FizzBuzzKata\FizzBuzzKataTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\CODE\Sample\FizzBuzzKata\FizzBuzzKataTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\CODE\Sample\FizzBuzzKata\FizzBuzzKataTest\bin\Debug\FizzBuzz.pdb
+D:\CODE\Sample\FizzBuzzKata\FizzBuzzKataTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\CODE\Sample\FizzBuzzKata\FizzBuzzKataTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\CODE\Sample\FizzBuzzKata\FizzBuzzKataTest\obj\Debug\FizzBuzzKataTest.csproj.CopyComplete
+D:\CODE\Sample\FizzBuzzKata\FizzBuzzKataTest\obj\Debug\FizzBuzzKataTest.dll
+D:\CODE\Sample\FizzBuzzKata\FizzBuzzKataTest\obj\Debug\FizzBuzzKataTest.pdb
