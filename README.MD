@@ -1,6 +1,6 @@
 # Coding Kata Exercise Example
 
-# Rules For Coding
+# Prectice For Coding
 1. Clean Code
 2. Redability 
 3. Testable Code
